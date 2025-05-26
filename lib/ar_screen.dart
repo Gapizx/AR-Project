@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
             onPressed: () {
               Navigator.pushReplacement(
                 context,
-                MaterialPageRoute(builder: (context) => HomeScreen()),); // กลับไปหน้า HomeScreen
+                MaterialPageRoute(builder: (context) => LoginPage()),); // กลับไปหน้า HomeScreen
             },
           ),
         ),
