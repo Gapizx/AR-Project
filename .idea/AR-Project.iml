@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/ar_flutter_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/arkit_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
