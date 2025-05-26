@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ar_screen.dart';
+import 'main.dart';
 
 void main() {
   runApp(const MaterialApp(home: LoginPage()));
@@ -87,7 +87,7 @@ class LoginPage extends StatelessWidget {
                     onPressed: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => ARScreen()),); // ไป ar
+                          MaterialPageRoute(builder: (context) => HomePage()),); // ไป ar
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.cyan[400],
