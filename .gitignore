@@ -1,0 +1,55 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.idea/
+
+# VS Code/Android Studio
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# iOS
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/ephemeral/
+*.xcworkspace
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/captures/
+android/.idea/
+android/local.properties
+android/gradle.properties
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows
+windows/Flutter/ephemeral/
+windows/Runner/GeneratedPluginRegistrant.cpp
+
+# Web
+web/Flutter/ephemeral/
+
+# Linux
+linux/Flutter/ephemeral/
+
+# Build output
+*.apk
+*.aab
+*.ipa
+
+# Environment files
+.env
+.env.*
